@@ -1,0 +1,12 @@
+﻿  Test2.cpp
+C:\Users\ADMIN\source\repos\Test2\Test2.cpp(30,34): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Users\ADMIN\source\repos\Test2\Test2.cpp(30,34): warning C4305:         with
+C:\Users\ADMIN\source\repos\Test2\Test2.cpp(30,34): warning C4305:         [
+C:\Users\ADMIN\source\repos\Test2\Test2.cpp(30,34): warning C4305:             T=float
+C:\Users\ADMIN\source\repos\Test2\Test2.cpp(30,34): warning C4305:         ]
+C:\Users\ADMIN\source\repos\Test2\Test2.cpp(30,29): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Users\ADMIN\source\repos\Test2\Test2.cpp(30,29): warning C4305:         with
+C:\Users\ADMIN\source\repos\Test2\Test2.cpp(30,29): warning C4305:         [
+C:\Users\ADMIN\source\repos\Test2\Test2.cpp(30,29): warning C4305:             T=float
+C:\Users\ADMIN\source\repos\Test2\Test2.cpp(30,29): warning C4305:         ]
+  Test2.vcxproj -> C:\Users\ADMIN\source\repos\Test2\x64\Debug\Test2.exe

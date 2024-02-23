@@ -1,0 +1,4 @@
+﻿  Test3.cpp
+C:\Users\ADMIN\source\repos\Test3\Test3.cpp(8,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\ADMIN\source\repos\Test3\Test3.cpp(7,9): warning C4101: 'num': unreferenced local variable
+  Test3.vcxproj -> C:\Users\ADMIN\source\repos\Test3\x64\Debug\Test3.exe
